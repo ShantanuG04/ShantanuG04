@@ -56,12 +56,12 @@ Hey there! I'm **Shantanu Ganai** — a curious learner diving deep into the wor
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shantanuganai&theme=github_dark" height="171"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShantanuG04&theme=github_dark" height="171"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=shantanuganai&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="175"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shantanuganai&layout=compact&theme=github_dark&hide_border=true" height="175"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ShantanuG04&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="175"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShantanuG04&layout=compact&theme=github_dark&hide_border=true" height="175"/>
   <br/>
-  <img src="https://streak-stats.demolab.com?user=shantanuganai&theme=github-dark-blue&short_numbers=true&mode=weekly&card_width=600&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=ShantanuG04&theme=github-dark-blue&short_numbers=true&mode=weekly&card_width=600&hide_border=true"/>
 </div>
 
 ---
