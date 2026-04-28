@@ -16,7 +16,7 @@ Hey there! I'm **Shantanu Ganai** — a curious learner diving deep into the wor
 - 📊 Working with **data** — cleaning, exploring, and deriving insights
 - 🧮 Building a strong foundation in **Statistics & Probability**
 - 💡 Believer in understanding the *why* behind every algorithm
-- 📬 Reach me: *(add your email here)*
+- 📬 Reach me: shantanuganai04@gmail.com
 
 ---
 
