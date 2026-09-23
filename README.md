@@ -16,9 +16,6 @@ Hey there! I'm **Shantanu Ganai** — a curious developer focused on learning **
 * ⚡ Building **REST APIs with FastAPI**
 * 🗄️ Working with **SQL databases and database design**
 * 🔐 Learning **Authentication, Authorization & RBAC**
-* 🐳 Exploring **Docker** for backend development and deployment
-* ⚡ Learning **Redis** and backend performance concepts
-* 🧩 Interested in **Backend Architecture & System Design**
 * 💡 I believe in understanding the *why* behind every technology
 * 📬 Reach me: [shantanuganai04@gmail.com](mailto:shantanuganai04@gmail.com)
 
